@@ -24,3 +24,37 @@
 #         s+=i
 #     print(s)
 
+
+# d={1:2,3:4,4:5}
+# s=0
+# for i in d:
+#     s+=d[i]
+# print(s)
+
+# d={1:2,3:4,4:5}
+# s=0
+# for i in d:
+#     s+=i
+# print(s)
+
+# d={1:2,3:4,4:5}
+# s=0,'a':3}
+# for i in d.values():
+#     s+=i
+# print(s)
+
+# d={'s':1,'h':2
+# d["s"]=0
+# d.clear()
+# print(d)
+
+# d={'s':1,'h':2,'a':3}
+# del d['s']
+# print(d)
+
+# d={'s':1,'h':2,'a':3}
+# d2={1:2,3:4,4:5}
+# d3={}
+# for i in (d,d2):
+#       d3.update(i)
+# print(d3)
